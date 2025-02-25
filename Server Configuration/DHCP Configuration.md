@@ -1,14 +1,16 @@
 **Lab 2. DHCP Configuration**
 
 **Objective:**
-•	Set up a DHCP server and assign it a static IP address.
-•	Enable DHCP services to assign dynamic IP addresses to devices.
-•	Verify that devices on the network can communicate using dynamically assigned IP addresses.
+-	Set up a DHCP server and assign it a static IP address.
+-	Enable DHCP services to assign dynamic IP addresses to devices.
+-	Verify that devices on the network can communicate using dynamically assigned IP addresses.
 
 **Description**
+
 This lab demonstrates how to configure a DHCP server to assign IP addresses dynamically to devices in a network. You will set up a server as the DHCP host, enable DHCP services, and verify that devices on the network can communicate with each other.
 
 **What is DHCP and Why Do We Need It?**
+
 Dynamic Host Configuration Protocol (DHCP) is a network management protocol that automates the process of assigning IP addresses and other network configuration parameters (like subnet mask, gateway, and DNS servers) to devices on a network.
 
 **Why We Need DHCP**
