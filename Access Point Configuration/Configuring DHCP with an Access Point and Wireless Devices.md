@@ -15,6 +15,7 @@
 This lab focuses on setting up a network using a router, a switch, PCs, a laptop, and an access point to enable wireless connectivity. The primary goal is to configure DHCP on the router, enable automatic IP assignment for connected devices, and test wireless connectivity through an access point.
 
 **What is an Access Point?**
+
 An Access Point (AP) is a networking device that provides wireless connectivity to devices within a specific range. It acts as a bridge between wired and wireless networks, enabling wireless devices to connect to the LAN.
 
 **Why is it needed?**
@@ -103,7 +104,7 @@ o	Use the smartphone to ping devices on the other side of the network to verify 
 
 ![Image](https://github.com/user-attachments/assets/3b205bb3-7cc1-432b-86bd-0c9c58c41ce9)
 
-Final Network Architecture
+**Final Network Architecture**
 
  ![Image](https://github.com/user-attachments/assets/64381fd7-2f6b-4f7f-9f0f-cbb2b68296ac)
 ________________________________________
