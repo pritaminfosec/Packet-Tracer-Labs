@@ -37,10 +37,10 @@ An Access Point (AP) is a networking device that provides wireless connectivity 
 The WPC300N is a wireless network adapter designed for laptops to enable WiFi connectivity. It is a PCMCIA card that provides support for the 802.11n standard, ensuring faster speeds and better range compared to older standards like 802.11g. The adapter is ideal for connecting to wireless networks in environments where a built-in WiFi module is not available or needs an upgrade. It supports robust encryption methods, such as WPA2-PSK, for secure wireless communication.
 
 3.	Configure DHCP on the Router:
-•	Access the router and enter configuration mode: conf t
-•	Configure Gig 0/0/0 interface: 
-•	int Gig 0/0/0
-•	ip add 192.168.1.1 255.255.255.0
+-	Access the router and enter configuration mode: conf t
+-	Configure Gig 0/0/0 interface: 
+-	int Gig 0/0/0
+-	ip add 192.168.1.1 255.255.255.0
 •	no shut
 •	Configure Gig 0/0/1 interface: 
 •	int Gig 0/0/1
@@ -60,10 +60,10 @@ The WPC300N is a wireless network adapter designed for laptops to enable WiFi co
 •	network 192.168.2.0 255.255.255.0
 •	Save the configuration: do wr
 
-4.	Assign IP to PCs via DHCP:
+5.	Assign IP to PCs via DHCP:
 •	On PCs connected to the switch, enable DHCP to assign IP addresses automatically.
 
-5.	Configure the Access Point:
+6.	Configure the Access Point:
 •	Navigate to the configuration panel of the access point:
 •	Go to Config -> Global -> Port 1.
 •	Set the SSID (WiFi name) under SSID.
