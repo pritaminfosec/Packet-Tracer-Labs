@@ -8,10 +8,10 @@
 **Description**
 This lab demonstrates how to configure a DHCP server to assign IP addresses dynamically to devices in a network. You will set up a server as the DHCP host, enable DHCP services, and verify that devices on the network can communicate with each other.
 
-What is DHCP and Why Do We Need It?
+**What is DHCP and Why Do We Need It?**
 Dynamic Host Configuration Protocol (DHCP) is a network management protocol that automates the process of assigning IP addresses and other network configuration parameters (like subnet mask, gateway, and DNS servers) to devices on a network.
 
-Why We Need DHCP
+**Why We Need DHCP**
 1.	Automation: DHCP eliminates the need for manual IP address configuration, saving time and reducing errors.
 2.	Scalability: It is particularly useful in networks with many devices, ensuring efficient IP address allocation.
 3.	Flexibility: DHCP allows devices to obtain IP addresses dynamically, making it easier to connect new devices or relocate existing ones without reconfiguration.
@@ -50,5 +50,6 @@ o	Use the ping command from one PC to another to verify communication between de
 o	If the devices reply to the ping requests, it confirms that the DHCP service is working and that the devices are properly connected.
 
 **Final Network Architecture**
+
 ![Image](https://github.com/user-attachments/assets/bac6c45b-a5e8-4769-af74-7a157ee41c90)
 ________________________________________
