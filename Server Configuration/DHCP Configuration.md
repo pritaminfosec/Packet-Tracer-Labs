@@ -31,7 +31,7 @@ o	Check the IP address assigned to each PC and laptop to confirm they have recei
 6.	Test Network Connectivity:
 o	Use the ping command from one PC to another to verify communication between devices. For example: ping 192.168.x.x
  
-
+![Image](https://github.com/user-attachments/assets/bac6c45b-a5e8-4769-af74-7a157ee41c90)
  
 
  
