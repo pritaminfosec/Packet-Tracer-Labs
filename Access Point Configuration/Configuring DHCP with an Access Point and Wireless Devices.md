@@ -12,6 +12,7 @@
 -	Test network connectivity by pinging devices across the network.
 
 **Description**
+
 This lab focuses on setting up a network using a router, a switch, PCs, a laptop, and an access point to enable wireless connectivity. The primary goal is to configure DHCP on the router, enable automatic IP assignment for connected devices, and test wireless connectivity through an access point.
 
 **What is an Access Point?**
