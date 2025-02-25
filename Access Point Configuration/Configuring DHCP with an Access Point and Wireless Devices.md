@@ -1,15 +1,15 @@
 **Lab 1. Configuring DHCP with an Access Point and Wireless Devices**
 
 **Objective:**
-•	Connect devices to establish a network with both wired and wireless components.
-•	Enable wireless capability on the laptop using the WPC300N adapter.
-•	Configure the router's interfaces with IP addresses.
-•	Exclude specific router IPs from DHCP assignment.
-•	Set up DHCP pools for automatic IP allocation.
-•	Assign IP addresses to PCs via DHCP.
-•	Configure the access point with SSID and WPA2-PSK security.
-•	Connect the smartphone to the wireless network using WiFi credentials.
-•	Test network connectivity by pinging devices across the network.
+-	Connect devices to establish a network with both wired and wireless components.
+-	Enable wireless capability on the laptop using the WPC300N adapter.
+-	Configure the router's interfaces with IP addresses.
+-	Exclude specific router IPs from DHCP assignment.
+-	Set up DHCP pools for automatic IP allocation.
+-	Assign IP addresses to PCs via DHCP.
+-	Configure the access point with SSID and WPA2-PSK security.
+-	Connect the smartphone to the wireless network using WiFi credentials.
+-	Test network connectivity by pinging devices across the network.
 
 **Description**
 This lab focuses on setting up a network using a router, a switch, PCs, a laptop, and an access point to enable wireless connectivity. The primary goal is to configure DHCP on the router, enable automatic IP assignment for connected devices, and test wireless connectivity through an access point.
