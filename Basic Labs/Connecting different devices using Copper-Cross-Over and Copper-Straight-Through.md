@@ -10,7 +10,7 @@ Direct connections between two similar devices (e.g., PC to PC, switch to switch
 **When to Use Straight-Through Cable:**
 - Connecting different types of devices, like:.
 - PC to Switch, PC to Router, Router to Switch, PC to Hub.
- 
-![Image](https://github.com/user-attachments/assets/a46b6337-8eff-4cbb-b505-64083ef5bab9)
 
-![Image](https://github.com/user-attachments/assets/0a31515b-fe2b-44f1-8a29-46c8c44acac7)
+ ![Image](https://github.com/user-attachments/assets/c14c1485-7a8e-4447-bf38-d0060d0c340f)
+
+ ![Image](https://github.com/user-attachments/assets/4fe3c0f2-c726-48cf-9f19-a962a8bab30d)
