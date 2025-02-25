@@ -1,5 +1,6 @@
 **Lab 1. Configuring DHCP with an Access Point and Wireless Devices**
 
+
 **Objective:**
 -	Connect devices to establish a network with both wired and wireless components.
 -	Enable wireless capability on the laptop using the WPC300N adapter.
@@ -10,6 +11,7 @@
 -	Configure the access point with SSID and WPA2-PSK security.
 -	Connect the smartphone to the wireless network using WiFi credentials.
 -	Test network connectivity by pinging devices across the network.
+
 
 **Description**
 
@@ -25,6 +27,7 @@ An Access Point (AP) is a networking device that provides wireless connectivity 
 3.	Simplified Network Access: Enables multiple devices to connect seamlessly using wireless protocols, reducing the need for physical connections.
 
 **Steps to Perform**
+
 1.	Hardware Setup:
 •	Connect one router, one switch, two PCs, and a laptop to the switch.
 •	Connect one access point, one laptop, and one smartphone to the access point.
@@ -62,10 +65,10 @@ The WPC300N is a wireless network adapter designed for laptops to enable WiFi co
 -	network 192.168.2.0 255.255.255.0
 -	Save the configuration: do wr
 
-5.	Assign IP to PCs via DHCP:
+4.	Assign IP to PCs via DHCP:
 •	On PCs connected to the switch, enable DHCP to assign IP addresses automatically.
 
-6.	Configure the Access Point:
+5.	Configure the Access Point:
 -	Navigate to the configuration panel of the access point:
 -	Go to Config -> Global -> Port 1.
 -	Set the SSID (WiFi name) under SSID.
@@ -86,7 +89,7 @@ WPA2-PSK (Wi-Fi Protected Access 2 - Pre-Shared Key) is a security protocol used
 
 ![Image](https://github.com/user-attachments/assets/049ae6e5-4a6f-485c-87bc-19fb518eaef6)
  
-7.	Connect the Smartphone to WiFi:
+6.	Connect the Smartphone to WiFi:
 •	On the smartphone:
 •	Go to Config -> Wireless 0.
 •	Enter the SSID (WiFi name).
@@ -98,7 +101,7 @@ WPA2-PSK (Wi-Fi Protected Access 2 - Pre-Shared Key) is a security protocol used
 
 ![Image](https://github.com/user-attachments/assets/8e38defe-175e-46bd-9117-892a475003dc)
  
-8.	Test Connectivity:
+7.	Test Connectivity:
 o	Use the smartphone to ping devices on the other side of the network to verify connectivity.
  
 ![Image](https://github.com/user-attachments/assets/3361fc20-de4a-4d2a-b733-fbf8086ed9ba)
