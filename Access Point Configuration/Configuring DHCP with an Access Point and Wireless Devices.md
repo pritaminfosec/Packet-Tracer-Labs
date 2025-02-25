@@ -67,7 +67,7 @@ The WPC300N is a wireless network adapter designed for laptops to enable WiFi co
 -	Navigate to the configuration panel of the access point:
 -	Go to Config -> Global -> Port 1.
 -	Set the SSID (WiFi name) under SSID.
--	
+
 An SSID (Service Set Identifier) is a unique name assigned to a wireless network. It is used to identify and distinguish one Wi-Fi network from another. When devices search for available networks, they display a list of SSIDs within range. The SSID can be a default name set by the router or customized by the network administrator.
 
 -	Configure authentication: 
@@ -84,7 +84,7 @@ WPA2-PSK (Wi-Fi Protected Access 2 - Pre-Shared Key) is a security protocol used
 
 ![Image](https://github.com/user-attachments/assets/049ae6e5-4a6f-485c-87bc-19fb518eaef6)
  
-6.	Connect the Smartphone to WiFi:
+7.	Connect the Smartphone to WiFi:
 •	On the smartphone:
 •	Go to Config -> Wireless 0.
 •	Enter the SSID (WiFi name).
@@ -96,7 +96,7 @@ WPA2-PSK (Wi-Fi Protected Access 2 - Pre-Shared Key) is a security protocol used
 
 ![Image](https://github.com/user-attachments/assets/8e38defe-175e-46bd-9117-892a475003dc)
  
-7.	Test Connectivity:
+8.	Test Connectivity:
 o	Use the smartphone to ping devices on the other side of the network to verify connectivity.
  
 ![Image](https://github.com/user-attachments/assets/3361fc20-de4a-4d2a-b733-fbf8086ed9ba)
